@@ -30,4 +30,4 @@ def reverse_string(s):
 # Test the function with the example
 input_str = "i.like.this.programme.very.much"
 output = reverse_alternate_words(input_str)
-print("Output:", output)
+print("Output:", output) # i.ekil.this.emmargorp.very.hcum
