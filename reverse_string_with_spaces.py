@@ -7,4 +7,4 @@ def reverse_string_with_spaces(input_str):
 # Test the function with the example
 input_str = "a bc def g"
 output = reverse_string_with_spaces(input_str)
-print("Output:", output)
+print("Output:", output) # Output : g fed cb a
