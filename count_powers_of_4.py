@@ -10,4 +10,4 @@ def count_powers_of_4():
 
 # Test the function
 output = count_powers_of_4()
-print("Count of powers of 4 up to 10:", output)
+print("Count of powers of 4 up to 10:", output) #2
