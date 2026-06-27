@@ -13,4 +13,4 @@ def angle_between_hands(h, m):
 h = 12
 m = 30
 output = angle_between_hands(h, m)
-print(f"Angle between hour hand and minute hand: {output} degrees")
+print(f"Angle between hour hand and minute hand: {output} degrees") # Angle between hour hand and minute hand: 165 degree
