@@ -16,3 +16,5 @@ input_year = 2000
 n = 5
 print("Output:")
 next_n_leap_years(input_year, n)
+""" Output:
+2004, 2008, 2012, 2016, 2020, """
