@@ -19,4 +19,4 @@ def sort_binary_digits(binary_number):
 # Test the function with the example
 input_binary = 842957
 output = sort_binary_digits(input_binary)
-print("Output:", output)
+print("Output:", output) # Output: 245789
