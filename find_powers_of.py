@@ -16,4 +16,4 @@ def find_powers_of(base, nums):
 input_nums = [3, 5, 27, 15]
 base = 3
 output = find_powers_of(base, input_nums)
-print("Output:", output)
+print("Output:", output) # Output: [3,27]
