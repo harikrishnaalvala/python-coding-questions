@@ -16,4 +16,4 @@ def non_repeating_characters(input_str):
 # Test the function with the example
 input_str = "daddy"
 output = non_repeating_characters(input_str)
-print("Output:", output)
+print("Output:", output) #Output: “ay”
