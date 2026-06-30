@@ -23,4 +23,4 @@ def second_max_difference(arr):
 # Test the function with the example array
 arr = [14, 12, 70, 15, 95, 65, 22, 30]
 output = second_max_difference(arr)
-print("Output:", output)
+print("Output:", output) #Output: 81
