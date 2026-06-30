@@ -24,5 +24,6 @@ input_str2 = "Buffet"
 output1, total_count1 = frequency_of_characters(input_str1)
 output2, total_count2 = frequency_of_characters(input_str2)
 
-print("Output 1:", output1, "Total:", total_count1)
-print("Output 2:", output2, "Total:", total_count2)
+print("Output 1:", output1, "Total:", total_count1) #Output 1: {'b': 1, 'f': 1, 'j': 1, 'p': 0, 'v': 0} Total: 3
+
+print("Output 2:", output2, "Total:", total_count2) #Output: Output 2: {'b': 1, 'f': 2, 'j': 0, 'p': 0, 'v': 0} Total: 3
