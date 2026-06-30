@@ -32,4 +32,4 @@ def replace_alternate_words(input_str):
 # Test the function with the example
 input_str = "i.like.this.program.very.much"
 output = replace_alternate_words(input_str)
-print("Output:", output)
+print("Output:", output) #Output: “i.abc.this.abc.very.abc”
