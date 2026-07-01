@@ -17,4 +17,4 @@ def find_second_largest(arr):
 # Test the function
 arr = [4, 6, 3, 94, 9]
 second_largest = find_second_largest(arr)
-print("Second largest number:", second_largest)
+print("Second largest number:", second_largest) # Second largest number: 9
