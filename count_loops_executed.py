@@ -9,4 +9,4 @@ def count_loops_executed():
 
 # Test the function
 loops = count_loops_executed()
-print("Number of loops executed:", loops)
+print("Number of loops executed:", loops) # Number of loops executed: 10
