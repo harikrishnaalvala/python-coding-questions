@@ -27,4 +27,4 @@ def sum_prime_numbers(start, end):
 start = 1
 end = 20
 result = sum_prime_numbers(start, end)
-print("Sum of prime numbers in the range", start, "to", end, ":", result)
+print("Sum of prime numbers in the range", start, "to", end, ":", result) # Sum of prime numbers in the range 1 to 20 : 77
