@@ -12,7 +12,7 @@ def fibonacci_iterative(n):
 # Test the iterative approach
 n = 10  # Number of Fibonacci numbers to generate
 fib_series_iterative = fibonacci_iterative(n)
-print("Fibonacci Series (Iterative):", fib_series_iterative)
+print("Fibonacci Series (Iterative):", fib_series_iterative) # Fibonacci Series (Iterative): [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
 
 
 # Recursive Approach
@@ -32,4 +32,4 @@ def fibonacci_recursive(n):
 
 # Test the recursive approach
 fib_series_recursive = fibonacci_recursive(n)
-print("Fibonacci Series (Recursive):", fib_series_recursive)
+print("Fibonacci Series (Recursive):", fib_series_recursive) # Fibonacci Series (Recursive): [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
