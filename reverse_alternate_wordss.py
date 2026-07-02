@@ -15,4 +15,4 @@ def reverse_alternate_wordss(sentence):
 # Test the function with an example
 sentence = "This is a test sentence to reverse alternate words"
 modified_sentence = reverse_alternate_words(sentence)
-print("Modified Sentence:", modified_sentence)
+print("Modified Sentence:", modified_sentence) # Modified Sentence: This si a tset sentence ot reverse etanretla words
