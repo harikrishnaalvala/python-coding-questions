@@ -21,4 +21,4 @@ def check_fibonacci_or_sum(num):
 
 # Test the function with an example
 num = 8
-check_fibonacci_or_sum(num)
+check_fibonacci_or_sum(num) # 8 is a Fibonacci number
