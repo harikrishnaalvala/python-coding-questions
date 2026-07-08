@@ -27,4 +27,4 @@ def sum_non_prime_numbers(start, end):
 start = 1
 end = 20
 result = sum_non_prime_numbers(start, end)
-print("Sum of non-prime numbers in the range", start, "to", end, ":", result)
+print("Sum of non-prime numbers in the range", start, "to", end, ":", result) # Sum of non-prime numbers in the range 1 to 20 : 133
