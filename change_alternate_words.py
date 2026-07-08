@@ -8,4 +8,4 @@ def change_alternate_words(array, format_word):
 array = ["apple", "banana", "orange", "grape"]
 format_word = "fruit"
 modified_array = change_alternate_words(array, format_word)
-print("Modified Array:", modified_array)
+print("Modified Array:", modified_array) # Modified Array: ['apple', 'fruit', 'orange', 'fruit']
