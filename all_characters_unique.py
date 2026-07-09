@@ -9,7 +9,7 @@ def all_characters_unique(input_str):
 # Test the function with examples
 input_str_1 = "abcde"
 input_str_2 = "hello"
-print("All characters in", input_str_1, "are unique:", all_characters_unique(input_str_1)) 
-print("All characters in", input_str_2, "are unique:", all_characters_unique(input_str_2))
+print("All characters in", input_str_1, "are unique:", all_characters_unique(input_str_1)) # All characters in abcde are unique: true
+print("All characters in", input_str_2, "are unique:", all_characters_unique(input_str_2)) # All characters in abcde are unique: false
 
 
