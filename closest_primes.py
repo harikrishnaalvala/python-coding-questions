@@ -47,10 +47,10 @@ def closest_primes(num):
 # Test cases
 num1 = 32
 print("Input#1:", num1)
-print("Output#1:", end=" ")
+print("Output#1:", end=" ") # Output#1: 31 37
 closest_primes(num1)
 
 num2 = 30
 print("\\nInput#2:", num2)
-print("Output#2:", end=" ")
+print("Output#2:", end=" ") # Output#1: 29 31
 closest_primes(num2)
