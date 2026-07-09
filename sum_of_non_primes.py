@@ -21,9 +21,9 @@ def sum_of_non_primes(arr):
 
 # Test cases
 arr1 = [1, 14, 5, 7]
-print("Output:", end=" ")
+print("Output:", end=" ") # Output: sum= 15
 sum_of_non_primes(arr1)
 
 arr2 = [2, 10, 13, 9]
-print("Output:", end=" ")
+print("Output:", end=" ") # Output: sum= 19
 sum_of_non_primes(arr2)
