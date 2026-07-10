@@ -6,5 +6,6 @@ def check_divisibility(number):
         print("The number is not divisible by both 7 and 11")
 
 # Example usage
-check_divisibility(77)  # 77 is divisible by both 7 and 11
-check_divisibility(14)  # 14 is not divisible by 11
+check_divisibility(77)  # Cool Dude
+check_divisibility(14)  # The number is not divisible by both 7 and 11
+
