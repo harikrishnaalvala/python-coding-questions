@@ -12,4 +12,4 @@ def print_integer_breakdown(number):
     print(breakdown)
 
 # Example usage
-print_integer_breakdown(43018)
+print_integer_breakdown(43018) # 40000 + 3000 + 10 + 8
