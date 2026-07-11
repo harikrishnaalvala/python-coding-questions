@@ -20,4 +20,4 @@ def create_short_code(s):
     return result
 
 # Example usage
-print(create_short_code("aajjkkp"))
+print(create_short_code("aajjkkp")) #a2j2k2p1
