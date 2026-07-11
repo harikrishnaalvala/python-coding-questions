@@ -8,4 +8,4 @@ def count_ones_in_binary(number):
     return count_of_ones
 
 # Example usage
-print(count_ones_in_binary(10))  # Output will be 2
+print(count_ones_in_binary(10))  # 2
