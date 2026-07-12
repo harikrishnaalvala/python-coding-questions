@@ -11,4 +11,4 @@ def min_coins_for_amount(amount):
         return "It is not possible"
 
 # Example usage
-print(min_coins_for_amount(345))
+print(min_coins_for_amount(345)) # 5 rupee coins: 69, 2 rupee coins: 0, Total coins: 69
