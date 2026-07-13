@@ -8,7 +8,7 @@ def count_characters(s):
             for j in range(length):
                 if s[i] == s[j]:
                     count += 1
-            print(f"'{s[i]}': {count}")
+            print(f"'{s[i]}': {count}" , end=" ")
 
 # Example usage
-count_characters("hello world")
+count_characters("hello world") 'h': 1 'e': 1 'l': 3 'o': 2 ' ': 1 'w': 1 'r': 1 'd': 1 
