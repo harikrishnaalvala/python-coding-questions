@@ -13,3 +13,5 @@ if is_leap_year(year):
     print(f"{year} is a leap year")
 else:
     print(f"{year} is not a leap year")
+    
+# Output : 2004 is a leap year
