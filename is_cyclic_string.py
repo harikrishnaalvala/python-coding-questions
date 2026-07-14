@@ -3,7 +3,7 @@ def is_cyclic_string(s):
     doubled_string = s + s
 
     # Check if original string is substring of doubled string
-    return s in doubled_string
+    return s in doubled_string[1:-1]
 
 # Example usage
 input_string = "abcabc"
