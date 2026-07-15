@@ -18,3 +18,10 @@ def pay_amount(amount):
 inputs = [30, 37, 41]
 for amount in inputs:
     print(f"Input: {amount}, Output: {pay_amount(amount)}")
+
+""" 
+Input: 30, Output: 6*Rs.5 + 0*Rs.2 = 6
+Input: 37, Output: 7*Rs.5 + 1*Rs.2 = 8
+Input: 41, Output: 8*Rs.5 + 0*Rs.2 = 8
+"""
+
