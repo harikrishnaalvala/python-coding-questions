@@ -19,4 +19,4 @@ def highest_span(arr, num):
 # Example usage
 arr = [1, 2, 3, 4, 1, 6, 7, 1, 9, 10]
 num = 1
-print("Highest span of", num, "in the array is:", highest_span(arr, num))
+print("Highest span of", num, "in the array is:", highest_span(arr, num)) # Highest span of 1 in the array is: 7
