@@ -11,4 +11,4 @@ def is_armstrong_number(num):
 
 # Example usage
 num = 153
-print(f"{num} is Armstrong number:", is_armstrong_number(num))
+print(f"{num} is Armstrong number:", is_armstrong_number(num))#  153 is Armstrong number: True
