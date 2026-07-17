@@ -16,3 +16,10 @@ def second_non_repeating_character(s):
 test_cases = ["amazon", "raju", "aabbcc", "aabbc"]
 for test in test_cases:
     print(f"Input: {test} Output: {second_non_repeating_character(test)}")
+
+""" Input: amazon Output: z
+Input: raju Output: a
+Input: aabbcc Output: No second non-repeating character
+Input: aabbc Output: No second non-repeating character
+
+"""
